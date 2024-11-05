@@ -1,0 +1,12 @@
+{
+  "name": "sir icelink",
+  "short_name": "sir icelink",
+  "id": "com.example.platformerpickup",
+  "description": "A platformer game where up to 4 players work together to collect all of the coins.\n\nThis game example includes:\n-Multiplayer lobby\n-Platformer behavior\n-Rectangular movement behavior\n-Sound effects\n-Text objects\n-Timers",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
